@@ -15,4 +15,4 @@ Sinatra ...,
     ~Active Record Querying
 
 ## credits
-Isaac Ongera
+Isaac Ongera Atuti
